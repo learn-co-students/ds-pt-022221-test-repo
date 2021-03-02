@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 We did not discuss branches/pull requests much when we introduced Git. Plus, maybe you've never used Markdown syntax to add an image to a Markdown file before (or never edited a README or other Markdown file before). **Part of this challenge is to Google your way through steps you haven't done before!** Use resources you find, plus Git/GitHub's documentation, to add your GIF or image on here successfully!
 
-(A small note - if you use Giphy to find a gif, be sure to grab the link to the actual image - no matter what, your link should end in an image filetype, for example: https://media.giphy.com/media/8RvL5KGDdP5i7Ns4gK/giphy.gif)
+(A small note - if you use Giphy to find a gif, be sure to grab the link to the actual image. No matter what, your link should end in an image filetype, for example: https://media.giphy.com/media/8RvL5KGDdP5i7Ns4gK/giphy.gif)
 
 Look at the branches and pending pull requests on this repo to see an example in progress!
 
