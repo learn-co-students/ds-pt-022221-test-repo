@@ -45,6 +45,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 ### Jonny
 
+![Tom the cat gif, from Giphy](https://media.giphy.com/media/bEs40jYsdQjmM/giphy.gif)
 
 ### Kimberly
 
