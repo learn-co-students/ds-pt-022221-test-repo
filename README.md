@@ -52,7 +52,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 ### Lindsey
 
-![dog computer gif, from Giphy](https://media.giphy.com/media/8RvL5KGDdP5i7Ns4gK/giphy.gif)
+![new dog computer gif, from Giphy](https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif)
 
 ### Margaret
 
